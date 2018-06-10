@@ -11,7 +11,7 @@ The code is in the "ex1-blink" folder and the result can be seen in the followin
 
 [![Micropython, Node MCU. Ex1: Blink](http://img.youtube.com/vi/iDSAnmPhJn0/0.jpg)](http://www.youtube.com/watch?v=iDSAnmPhJn0)
 
-## Exercise 2: Press Button
+## Exercise 2: Push-button
 In this case, we are introducing a push-button to make the LED blink on demand. 
 The code is in the "ex2-push-button" folder and the result can be seen in the following video:
 
